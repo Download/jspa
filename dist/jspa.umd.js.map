@@ -1,0 +1,1 @@
+{"version":3,"file":"jspa.umd.js","sources":["../src/Entity.js"],"sourcesContent":["export default function Entity() {\r\n}\r\n\r\n"],"names":["Entity"],"mappings":";;;;;;AAAe,SAASA,MAAT,GAAkB;;;;;;"}
