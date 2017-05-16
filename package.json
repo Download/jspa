@@ -1,8 +1,11 @@
 {
   "name": "jspa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript Persistence API",
   "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "build-umd": "rollup -c -n jspa",
     "build-min": "cross-env NODE_ENV=production rollup -c -n jspa",
@@ -22,9 +25,11 @@
   "keywords": [
     "Javascript Persistence API",
     "Persistence",
-    "Database"
+    "Database",
+    "REST",
+    "JSON"
   ],
-  "author": "Stijn de Witt",
+  "author": "Stijn de Witt <StijnDeWitt@hotmail.com>",
   "license": "CC-BY-4.0",
   "bugs": {
     "url": "https://github.com/download/jspa/issues"
