@@ -1,6 +1,8 @@
 # jspa <sup><sub>0.0.1</sub></sup>
 ### Javascript Persistence API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/jspa.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/jspa.svg)](https://npmjs.com/package/jspa)
 [![license](https://img.shields.io/npm/l/jspa.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![travis](https://img.shields.io/travis/Download/jspa.svg)](https://travis-ci.org/Download/jspa)
